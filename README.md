@@ -1,2 +1,1 @@
-# Repaso-PrepCouse-Henry
-Este es un repositorio de prueba del M2 del Prepositorio de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde gibhub a mi computadora
